@@ -1,4 +1,4 @@
-[Individual Developer (Standalone)] commands are essential for anybody who makes a commit, even for somebody who works alone.
+[Individual Developer (Standalone)] commands are essential for anybody who makes a commit, even for somebody who works alone.(new edit.......)
 
 If you work with other people, you will need commands listed in the [Individual Developer (Participant)] section as well.
 
